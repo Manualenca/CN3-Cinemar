@@ -1,7 +1,7 @@
 # CN3-Cinemar
-# Evaluación del Curso de Python
+## Evaluación del Curso de Python
 
-# Sistema de Gestión.
+### Sistema de Gestión.
 
 Cinemar.
 
