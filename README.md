@@ -77,3 +77,6 @@ Entrega Final (Fecha: 19/12)
 1) Presentación grupal del proyecto.
 2) Explicación del código.
 3) Decisiones de diseño
+
+
+### Usuario Administrador: admin2590 Contraseña: admin2590
